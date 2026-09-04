@@ -1,0 +1,8 @@
+What I did today
+
+4 hours - Attended Morning Lecture
+1 hour - Study of topics Idp provider, password manager, sed vs awk, Umask
+3 hours - Practice linux commands what we learned till today.
+1 hour - Installed Ubuntu for Linux practice
+2 hours - Study of coding part of day 4, i.e. Basic CI/CD Concepts with Jenkins
+.
