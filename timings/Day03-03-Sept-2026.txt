@@ -1,0 +1,6 @@
+What I did Today
+
+4 Hours - Attended morning lecture
+2.5 Hours - Practiced Linux commands which we learned today. 
+1.5 hours -  Learned about Relative path and Absolute path
+1 hour - Study of hardlink and softlink which is important for interview perspective
