@@ -1,0 +1,5 @@
+What I did today::
+3:30 hours - Watched Morning Lecture Recording
+2:00 hours - Docker + today Kubernetes class study
+2:00 hours - Scripts practice
+30 min - Attended evening session.
