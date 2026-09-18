@@ -1,0 +1,5 @@
+3 hours - Attended Morning lecture
+1 hours - Learned the concepts Affinity, Anti-Affinity, Pod Affinity, Node Affinity.
+3 hours - Watched previous batch lecture.
+1 hour - Revised Everything
+

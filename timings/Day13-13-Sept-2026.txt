@@ -1,0 +1,5 @@
+3:30 hours - Attended Morning Lecture
+1 hours - Learned about Deployement, Daemonset, Stateful.
+2 hours - Coding practice.
+2 hours - Revised everything till date.
+30 min - Evening session.
